@@ -26,4 +26,5 @@
     </table>
 </main>
 
+
 <?php require 'partials/rodape.php' ?>
