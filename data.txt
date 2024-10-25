@@ -50,3 +50,7 @@ Golf, 2018
 Fiesta, 2025
 Ferrari 458, 2022
 fiat, 1980
+Nissan Kicks, 2021
+Sandero, 2014
+Sandero, 2014
+Hilux, 2021
